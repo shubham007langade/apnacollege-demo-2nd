@@ -1,0 +1,10 @@
+<--------- before Add file into github --------->
+
+training will completed 
+now i am leauring github
+git status will be := Untrack
+
+<------------ Add file into git hub ------------>
+
+i add this file Into git hub
+git status will be := 
